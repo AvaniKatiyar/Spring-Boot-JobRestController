@@ -84,21 +84,6 @@ DELETE /jobs/{id}
   "salary": 30000
 }
 
----
-
-⚙️ How to Run
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/job-management-api.git
-
-2. Open in IntelliJ IDEA
-
-3. Configure database in "application.properties"
-
-4. Run the application:
-
-mvn spring-boot:run
 
 ---
 
@@ -124,7 +109,7 @@ mvn spring-boot:run
 
 👨‍💻 Author
 
-Rahul Singh
+Avani Katiyar
 
 ---
 
